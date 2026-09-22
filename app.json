@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Puisetso Maluke",
+    "slug": "puisetso-portfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "web": { "bundler": "metro", "output": "single" }
+  }
+}
