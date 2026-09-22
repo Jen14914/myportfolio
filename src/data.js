@@ -34,7 +34,7 @@ export const profile = {
 export const contact = {
   email: 'puisetsomaluke@gmail.com', // TODO: your email address
   github: 'https://github.com/Jen14914',
-  linkedin: 'www.linkedin.com/in/puisetso-maluke-50ab8269', // TODO: your LinkedIn URL
+  linkedin: 'https://www.linkedin.com/in/puisetso-maluke-50ab8269', // TODO: your LinkedIn URL
   whatsapp: '+26657130660', // TODO: number in international format, digits only
   cvUrl: 'https://drive.google.com/file/d/1UuSbUmC1hur7fWsVPuTj5I8x90sYm508/view?usp=drive_link', // TODO: link to your CV (PDF) so the "Download CV" button appears
 };
