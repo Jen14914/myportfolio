@@ -172,5 +172,25 @@ export const education = [
     note: 'Dissertation on the Lesotho National Health Surveillance Platform, using Design Science Research.',
   },
   // TODO: add your earlier degree(s), diplomas and certifications here.
-  // { id: 'bsc', title: '...', org: '...', period: '...', note: '' },
+  {
+    id: 'BSc',
+    title: 'Bachelor of Science in Computing',
+    org: 'Botho University',
+    period: '2017-2022',
+    note: 'Completed'
+  },
+  {
+    id: 'Certificate',
+    title: 'Certificate in Artificial Intelligence',
+    org: 'Samsung Innovation Campus - Lerotholi Polytechnic',
+    period: 'July 2024 - December 2024',
+    note: 'Completed'
+  },
+  {
+    id: 'Certificate',
+    title: 'Certificate in Machine Learning',
+    org: 'Samsung Innovation Campus - Lerotholi Polytechnic',
+    period: 'July 2023 - December 2023',
+    note: 'Completed'
+  }
 ];
