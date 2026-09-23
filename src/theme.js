@@ -13,6 +13,8 @@ export const colors = {
   greenSoft: '#E4F1EA',
   ochre: '#8A5F0F',
   ochreSoft: '#F6E9CC',
+  footerColor: '#174D7C',
+  footerColorSoft: '#4A5A68',
 };
 
 // The accent colour follows the role being viewed.
