@@ -227,5 +227,5 @@ const styles = StyleSheet.create({
     ...cardShadow(0.5),
   },
   footer: { paddingVertical: 32, paddingHorizontal: 20, borderTopWidth: 1, borderTopColor: colors.line, alignItems: 'center' },
-  footerText: { fontFamily: fonts.body, fontSize: 14, color: colors.inkSoft, textAlign: 'center' },
+  footerText: { fontFamily: fonts.body, fontSize: 14, color: colors.footerColor, textAlign: 'center' },
 });
