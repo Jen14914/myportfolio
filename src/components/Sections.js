@@ -226,6 +226,6 @@ const styles = StyleSheet.create({
     marginBottom: 16,
     ...cardShadow(0.5),
   },
-  footer: { paddingVertical: 32, paddingHorizontal: 20, borderTopWidth: 1, borderTopColor: colors.line, alignItems: 'center' },
-  footerText: { fontFamily: fonts.body, fontSize: 14, color: colors.footerColor, textAlign: 'center' },
+  footer: { paddingVertical: 32, paddingHorizontal: 20, borderTopWidth: 1, borderTopColor: colors.line, alignItems: 'center', backgroundColor: colors.footerColor },
+  footerText: { fontFamily: fonts.body, fontSize: 14, color: colors.ochreSoft, textAlign: 'center' },
 });
